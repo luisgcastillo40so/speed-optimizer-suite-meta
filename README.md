@@ -1,4 +1,4 @@
-# speed-optimizer-suite-meta
+# Magento 2 Speed Optimizer Suite
 Magento 2 Speed Optimizer Scommerce Mage
 
 Our Magento 2 Speed Optimizer Page speed is the time taken to load/display all the content on a specific page or the length of time it takes for a browser to receive a web server’s first byte. Page speed is important to users as we know faster pages are more efficient.
