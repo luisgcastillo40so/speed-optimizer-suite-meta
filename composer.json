@@ -1,0 +1,22 @@
+{
+    "name": "scommerce/speed-optimizer-suite-meta",
+    "description": "Speed Optimizer Suite for Magento 2",
+    "require": {
+        "php": "~7.0.13|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
+        "scommerce/core": "2.0.*",
+        "scommercemage/optimiserbase": "2.0.*",
+        "scommerce/speedoptimiser": "2.0.*",
+	"scommerce/lazyloading": "2.0.*",
+        "scommerce/imageoptimiser": "2.0.*",
+        "scommerce/cachewarmer": "2.0.*"
+    },
+    "version": "2.0.0",
+    "type": "metapackage",
+    "license": "Commercial",
+    "authors": [
+        {
+            "name": "Scommerce Mage",
+            "email": "core@scommerce-mage.com"
+        }
+    ]
+}   
